@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title> Laravel 10 Task List App</title>
+    <title> Laravel 10 Task Listing App</title>
     @yield('styles')
 </head>
 
